@@ -1,7 +1,6 @@
 # Move Seat Booking APP
--
 Simple client side form validation. Check required, length, email and password match<br>
-[Click Here](https://amberh31.github.io/form-validator/)
+[Click Here](https://amberh31.github.io/move-seat-booking/)
 
 **# Project Specifications**
 -
