@@ -17,6 +17,12 @@ function updateSelectedCount() {
   const selectedSeatsCount = selectedSeats.length;
   console.log(selectedSeatsCount);
 
+  //copy selected seats into arr
+  const seatsIndex = [...selectedSeatsCount];
+  //map through array
+
+  //return a new array indexes
+
   count.innerText = selectedSeatsCount;
   total.innerText = selectedSeatsCount * ticketPrice;
 }
