@@ -1,6 +1,6 @@
 # Movie Seat Booking APP
 Simple client side form validation. Check required, length, email and password match<br>
-[Click Here](https://htmlpreview.github.io/?https://github.com/AmberH31/movie-seat-booking/blob/master/index.html)
+[Click Here](https://amberh31.github.io/movie-seat-booking/)
 
 **# Project Specifications**
 -
