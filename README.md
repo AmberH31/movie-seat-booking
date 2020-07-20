@@ -1,5 +1,5 @@
 # Movie Seat Booking APP
-Simple client side form validation. Check required, length, email and password match<br>
+Display movie choices and seats in a theater to select from in order to purchase tickets<br>
 [Click Here](https://amberh31.github.io/movie-seat-booking/)
 
 **# Project Specifications**
